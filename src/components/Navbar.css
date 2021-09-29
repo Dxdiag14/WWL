@@ -47,7 +47,7 @@
 /*For the main navbar*/
 
 .navbar {
-    background: #D3D3D3;
+    background: #fff;
     height: 80px;
     display: flex;
     justify-content: center;
@@ -93,6 +93,8 @@
   
   .nav-item {
     height: 80px;
+    background: transparent;
+    padding: 15px 0;
   }
   
   .nav-links {

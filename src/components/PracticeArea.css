@@ -1,0 +1,33 @@
+.practice-section {
+    background: url('../assets/bg-home-services.jpg') center center/cover no-repeat;
+    height: 200vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.practice-headline {
+    display: flex;
+    margin-top: 80px;
+    flex-direction: column;
+    height: 20%;
+    width: 80%;
+    
+}
+
+.practice-headline > h3 {
+    color: #2C589B;
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.practice-headline > h2 {
+    font-size: 54px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+
+
